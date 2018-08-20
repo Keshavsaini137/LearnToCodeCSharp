@@ -1,0 +1,7 @@
+File Class
+Definition
+Namespace:
+System.IO
+Assemblies:
+System.IO.FileSystem.dll, mscorlib.dll, netstandard.dll
+Provides static methods for the creation, copying, deletion, moving, and opening of a single file, and aids in the creation of FileStream objects.
